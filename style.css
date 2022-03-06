@@ -1,0 +1,10 @@
+/* style this if you'd like */
+* {
+  font-family: monospace;
+}
+a:visited {
+  color: gray;
+}
+a {
+  color: gray;
+}
